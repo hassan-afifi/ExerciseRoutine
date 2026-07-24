@@ -79,19 +79,20 @@ This project demonstrates several software engineering concepts, including:
 
 # Screenshots
 
-## Home Page
-
-Browse exercises with search and category filters.
-
-<img width="1654" height="1284" alt="index" src="https://github.com/user-attachments/assets/8810b776-033b-4115-be93-7bd1312fd36d" />
-
----
-
 ## User Dashboard
 
 Overview of personal exercises, favourites, and categories.
 
 <img width="1654" height="1540" alt="dashboard" src="https://github.com/user-attachments/assets/bba86571-8b15-47c5-8ff3-26cbc30f10da" />
+<img width="820" height="1540" alt="dashboard" src="https://github.com/user-attachments/assets/bba86571-8b15-47c5-8ff3-26cbc30f10da" />
+
+---
+
+## Home Page
+
+Browse exercises with search and category filters.
+
+<img width="1654" height="1284" alt="index" src="https://github.com/user-attachments/assets/8810b776-033b-4115-be93-7bd1312fd36d" />
 
 ---
 
