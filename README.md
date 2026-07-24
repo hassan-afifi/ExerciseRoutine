@@ -4,6 +4,14 @@
 
 <h1 align="center">ExerciseRoutine</h1>
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel)
+
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php)
+
+![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue)
+
 ExerciseRoutine is a modern full-stack web application for creating, organizing, and discovering fitness exercises.
 
 Users can build their own exercise library, organize exercises into custom categories, save favourites, and browse detailed exercise information through a responsive interface. The application also includes a dedicated administration panel for managing users, exercises, and categories.
