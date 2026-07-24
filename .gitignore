@@ -1,0 +1,45 @@
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.fleet/
+.idea/
+.nova/
+.vscode/
+.zed/
+
+# PHP
+.phpactor.json
+.phpunit.result.cache
+.phpunit.cache/
+
+# Composer
+auth.json
+
+# React
+client/node_modules/
+client/dist/
+client/.env
+client/.env.*
+!client/.env.example
+
+# Laravel
+server/vendor/
+server/.env
+server/.env.*
+!server/.env.example
+
+server/public/build/
+server/public/hot
+server/public/storage/
+
+server/storage/*.key
+server/storage/pail/
+
+# Homestead
+Homestead.yaml
+Homestead.json

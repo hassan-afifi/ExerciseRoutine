@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@source "./**/*.js";
+@source "./**/*.jsx";
+
+@theme {
+    --font-sans:
+        "Instrument Sans", ui-sans-serif, system-ui, sans-serif,
+        "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+        "Noto Color Emoji";
+}
+
+@plugin "daisyui" {
+    themes: false;
+}
+
+@layer base {
+    :root,
+    [data-theme="dark"],
+    [data-theme="light"] {
+        color-scheme: dark;
+        --color-primary: #0090ff;
+        --color-primary-content: #e4e4e4;
+        --color-secondary: #ff5a8d;
+        --color-secondary-content: #1c1c1c;
+        --color-accent: #0090ff;
+        --color-accent-content: #e4e4e4;
+        --color-neutral: #1f1f1f;
+        --color-neutral-content: #e4e4e4;
+        --color-info: #38bdf8;
+        --color-info-content: #082f49;
+        --color-success: #22c55e;
+        --color-success-content: #052e16;
+        --color-warning: #f59e0b;
+        --color-warning-content: #451a03;
+        --color-error: #ef4444;
+        --color-error-content: #fee2e2;
+        --color-base-100: #282828;
+        --color-base-200: #1c1c1c;
+        --color-base-300: #282828;
+        --color-base-content: #e4e4e4;
+        --radius-selector: 0.5rem;
+        --radius-field: 0.25rem;
+        --radius-box: 0.5rem;
+        --size-selector: 0.25rem;
+        --size-field: 0.25rem;
+        --border: 1px;
+        --depth: 1;
+        --noise: 0;
+    }
+
+    body,
+    .bg-base-200 {
+        background-color: #1c1c1c !important;
+    }
+
+    .bg-base-100 {
+        background-color: #282828 !important;
+    }
+
+    .border-base-300 {
+        border-color: #282828 !important;
+    }
+
+    .menu .menu-active {
+        background-color: #0090ff !important;
+        color: #e4e4e4 !important;
+    }
+
+    .category-badge,
+    .badge-primary,
+    .badge-accent {
+        background-color: #0090ff !important;
+        border-color: #0090ff !important;
+        color: #e4e4e4 !important;
+    }
+
+    .admin-centered-table th,
+    .admin-centered-table td {
+        text-align: center !important;
+    }
+}
