@@ -84,7 +84,6 @@ This project demonstrates several software engineering concepts, including:
 Overview of personal exercises, favourites, and categories.
 
 <img width="1654" height="1540" alt="dashboard" src="https://github.com/user-attachments/assets/bba86571-8b15-47c5-8ff3-26cbc30f10da" />
-<img width="820" alt="dashboard" src="https://github.com/user-attachments/assets/bba86571-8b15-47c5-8ff3-26cbc30f10da" />
 
 ---
 
