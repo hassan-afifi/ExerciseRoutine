@@ -1,14 +1,8 @@
-# ExerciseRoutine
-
 <p align="center">
   <img src="client/public/favicon.ico" width="120" alt="ExerciseRoutine Logo">
 </p>
 
 <h1 align="center">ExerciseRoutine</h1>
-
-<p align="center">
-A modern full-stack exercise management platform built with React and Laravel.
-</p>
 
 ExerciseRoutine is a modern full-stack web application for creating, organizing, and discovering fitness exercises.
 
