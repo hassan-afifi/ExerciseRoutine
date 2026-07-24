@@ -13,7 +13,7 @@ ExerciseRoutine is a modern full-stack web application for creating, organizing,
 
 Users can build their own exercise library, organize exercises into custom categories, save favourites, and browse detailed exercise information through a responsive interface. The application also includes a dedicated administration panel for managing users, exercises, and categories.
 
-Built with React, Laravel, and MySQL/SQLite, the project demonstrates modern full-stack web development using REST APIs, authentication, role-based authorization, and responsive UI design.
+Built with React, Laravel, and MySQL/SQLite, the project demonstrates modern full-stack development through RESTful APIs, secure authentication, role-based authorization, and responsive UI design.
 
 ---
 
