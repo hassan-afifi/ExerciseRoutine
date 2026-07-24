@@ -83,15 +83,15 @@ This project demonstrates several software engineering concepts, including:
 
 Browse exercises with search and category filters.
 
-![Home](screenshots/index.png)
+<img width="1654" height="1284" alt="index" src="https://github.com/user-attachments/assets/8810b776-033b-4115-be93-7bd1312fd36d" />
 
 ---
 
 ## User Dashboard
 
-Overview of personal exercises, favourites, and categories.
+Overview of personal exercises, favorites, and categories.
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1654" height="1540" alt="dashboard" src="https://github.com/user-attachments/assets/bba86571-8b15-47c5-8ff3-26cbc30f10da" />
 
 ---
 
@@ -99,7 +99,7 @@ Overview of personal exercises, favourites, and categories.
 
 Detailed exercise information including categories, difficulty, equipment, and instructions.
 
-![Exercise Details](screenshots/exercise-detail.png)
+<img width="1654" height="1617" alt="exercise-detail" src="https://github.com/user-attachments/assets/dde9ff22-649a-45f7-8769-ce9304b1919b" />
 
 ---
 
@@ -107,7 +107,7 @@ Detailed exercise information including categories, difficulty, equipment, and i
 
 Manage your personal exercise collection.
 
-![My Exercises](screenshots/my-exercises.png)
+<img width="1669" height="911" alt="my-exercises" src="https://github.com/user-attachments/assets/e0e3217f-08f5-4002-8c10-847ee49f5370" />
 
 ---
 
@@ -115,7 +115,7 @@ Manage your personal exercise collection.
 
 Create new exercises with images, categories, equipment, and instructions.
 
-![Add Exercise](screenshots/add-exercise.png)
+<img width="1654" height="1252" alt="add-exercise" src="https://github.com/user-attachments/assets/807830f1-1db6-450b-b364-291bf3338678" />
 
 ---
 
@@ -123,15 +123,15 @@ Create new exercises with images, categories, equipment, and instructions.
 
 Update existing exercises and uploaded images.
 
-![Edit Exercise](screenshots/edit-exercise.png)
+<img width="1654" height="1414" alt="edit-exercise" src="https://github.com/user-attachments/assets/61eb65d4-80f2-47f0-bfe8-5e5e15b32bba" />
 
 ---
 
-## Favourite Exercises
+## Favorite Exercises
 
 Quick access to saved exercises.
 
-![Favourites](screenshots/favourites.png)
+<img width="1669" height="911" alt="favourites" src="https://github.com/user-attachments/assets/e5d15e18-0a74-4574-a626-0e6410217506" />
 
 ---
 
@@ -139,7 +139,7 @@ Quick access to saved exercises.
 
 Create and manage custom exercise categories.
 
-![Categories](screenshots/my-categories.png)
+<img width="1654" height="957" alt="my-categories" src="https://github.com/user-attachments/assets/ea052f32-b64b-40c7-9183-8d678f43ad03" />
 
 ---
 
@@ -149,15 +149,15 @@ Dedicated administration interface.
 
 ### User Management
 
-![Users](screenshots/admin-users.png)
+<img width="1669" height="911" alt="admin-users" src="https://github.com/user-attachments/assets/ca10dcea-744e-4798-8f88-3c2f3319d300" />
 
 ### Exercise Management
 
-![Exercises](screenshots/admin-exercises.png)
+<img width="1669" height="911" alt="admin-exercises" src="https://github.com/user-attachments/assets/377cb2bf-70b6-47b6-a810-33df0863a457" />
 
 ### Category Management
 
-![Categories](screenshots/admin-categories.png)
+<img width="1654" height="957" alt="admin-categories" src="https://github.com/user-attachments/assets/ae76e9a1-9c2b-4968-a0de-764de387e28c" />
 
 ---
 
@@ -165,7 +165,7 @@ Dedicated administration interface.
 
 Entity relationship diagram illustrating the application's relational database structure.
 
-![Database](screenshots/database.png)
+<img width="924" height="960" alt="database" src="https://github.com/user-attachments/assets/49d24c08-1618-471d-90f5-ff9aaeef7098" />
 
 ---
 
